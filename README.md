@@ -1,6 +1,8 @@
-# Bank Fraud Synthetic
+# Bank Fraud Synthetic Dataset for Train-Test Split Experimentation Project
 
-Synthetic dataset generator for a simple bank transactions fraud detection problem. It produces two CSVs with 1,000 rows each by default:
+This project contains the code to explore train-test splits with different ratios and the subsequent impact on a model's accuracy with imbalanced and balanced datasets.
+
+A synthetic dataset generator is created for a simple bank transactions fraud detection problem. It produces two CSVs with 1,000 rows each by default:
 
 - data/processed/bank_transactions_balanced.csv (50% fraud)
 - data/processed/bank_transactions_imbalanced.csv (5% fraud by default)
