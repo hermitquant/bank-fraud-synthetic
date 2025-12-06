@@ -47,3 +47,10 @@ Columns in the generated CSVs:
 - Balanced dataset uses 50% fraud rate.
 - Imbalanced dataset uses `--imbalanced_rate` (default 5%).
 - Feature distributions differ by label to make the problem learnable but not trivial.
+
+## Reports
+
+  Links to insights and findings
+
+- [Insights](reports/insights.md)
+- [Findings](reports/findings.md)
