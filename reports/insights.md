@@ -1578,8 +1578,4 @@ Window 5: Train [Jan-Jul] → Test [Aug-Sep]
 - **Temporal Gap**: 0.0388 (reveals basic overfitting)
 - **Walk-Forward Gap**: 0.0512 (shows true overfitting in production scenario)
 
----
 
-## 📈 TEMPORAL CONCEPT DRIFT ANALYSIS
-
-### **Performance Evolution Across Windows:**
